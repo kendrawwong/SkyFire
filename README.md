@@ -1,0 +1,2 @@
+# SkyFire
+This app takes a US zip code imputed by the app user and finds the corresponding city and state. This information is then used to web scrape weather and elevation data to predict how "good" (vibrant) a sunrise or sunset will be. A grid of elevation values will also be displayed across the map and the user can click on the map to return more specific elevation. The highest elevation value will be highlighted, suggesting a location to go watch the sunrise/sunset.
