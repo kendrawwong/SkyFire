@@ -9,8 +9,5 @@ Libraries:
 Requests, bs4 (Beautiful Soup), Selenium, geopy, and PIL must be installed.
 This app uses cmu_112_graphics.py
 
-Shortcut commands (also listed in the instructions):
-‘s’ to search for a zipcode
-‘c’ to clear clicked elevations on the map
-‘i’ to show pop up instructions while in the map
-‘r’ to return to the title screen
+Demo Video:
+https://youtu.be/lz07259j-wU
