@@ -7,6 +7,7 @@ Open and run the skyFire.py file, which will open the app.
 
 Libraries:
 Requests, bs4 (Beautiful Soup), Selenium, geopy, and PIL must be installed.
+This app uses cmu_112_graphics.py
 
 Shortcut commands (also listed in the instructions):
 ‘s’ to search for a zipcode
